@@ -1963,7 +1963,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #008d7d;
+  background: #603776;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -1995,7 +1995,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #ab8fb9;
 }
 
 .hero .icon-box:hover .title a,
